@@ -1,7 +1,6 @@
 # 🧠 Memory Game
 
-A classic memory matching game built using **HTML, CSS, and JavaScript**.  
-Test your concentration and see how quickly you can match all the pairs!
+A classic memory matching game built using **HTML, CSS, and JavaScript**. test your concentration and see how quickly you can match all the pairs!
 
 ---
 
