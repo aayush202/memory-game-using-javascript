@@ -1,19 +1,41 @@
-🧠 Memory Game
-A classic memory matching game built using [mention main technologies, e.g., HTML, CSS, and JavaScript]. Test your concentration and see how quickly you can match all the pairs!
+# 🧠 Memory Game
 
-✨ Features
-Classic Gameplay: Match pairs of hidden cards.
+A classic memory matching game built using **HTML, CSS, and JavaScript**.  
+Test your concentration and see how quickly you can match all the pairs!
 
-[Feature 2, e.g.,] Score Tracking: Monitors the number of moves and time taken.
+---
 
-[Feature 3, e.g.,] Difficulty Levels: (If applicable, mention options like Easy, Medium, Hard).
+## 🖼️ Game Preview (Image)
+<!-- Add your image here -->
+![Game Screenshot](https://github.com/aayush202/memory-game-using-javascript/blob/9ae0469b81b428edb442ba0b2834ef3c0eca24d3/Screenshot%202026-01-04%20231134.png)
 
-Responsive Design: Playable on desktop and mobile devices.
+---
 
-🚀 Getting Started
-Follow these steps to get a local copy of the game up and running.
+## 🎥 Gameplay Demo (Video)
+<!-- Add your video here -->
+![Video](https://github.com/user-attachments/assets/23dd9b18-ab44-4c7d-9889-c9ffe4e957ca)
 
-Prerequisites
-A web browser (e.g., Chrome, Firefox, Safari).
+---
 
-Installation
+## ✨ Features
+
+- **Classic Gameplay**  
+  Match pairs of hidden cards by flipping them two at a time.
+
+- **Score Tracking**  
+  Tracks the number of moves and the time taken to complete the game.
+
+- **Difficulty Levels**  
+  Easy, Medium, and Hard modes to challenge different skill levels.
+
+- **Responsive Design**  
+  Fully playable on desktop, tablet, and mobile devices.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the game locally on your system.
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Edge, Safari)
